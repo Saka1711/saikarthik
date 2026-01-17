@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-### Associate Software Developer
+### Associate Software Developer (Jul 2023 - Current)
 **Sapiens**
 *A company specializing in software solutions for insurance and financial services*
 
@@ -14,7 +14,7 @@ permalink: /experience/
 *   **Database Optimization:** Optimized SQL queries and database performance for mission-critical insurance modules, reducing execution time by 35% and ensuring high system stability.
 *   **Quality & Recognition:** Adhered to SDLC best practices to ensure 100% on-time releases, earning the WOW Award and Best Developer recognition for consistent high impact.
 
-### Associate Software Developer Internship
+### Associate Software Developer Internship (Jan 2023 - Jul 2023)
 **Sapiens**
 *A company specializing in software solutions for insurance and financial services*
 
