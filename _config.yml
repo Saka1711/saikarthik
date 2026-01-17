@@ -21,7 +21,7 @@
 title: Sai Karthik N V S
 email: saikarthik.131855@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my portfolio: A showcase of my software engineering journey and technical projects.
+  Welcome to my Portfolio: A showcase of my Software Engineering journey and Technical Projects.
 baseurl: "/saikarthik" # the subpath of your site, e.g. /blog
 url: "https://saka1711.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Saka1711

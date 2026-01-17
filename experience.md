@@ -15,8 +15,6 @@ permalink: /experience/
 *   **Quality & Recognition:** Adhered to SDLC best practices to ensure 100% on-time releases, earning the WOW Award and Best Developer recognition for consistent high impact.
 
 ### Associate Software Developer Internship (Jan 2023 - Jul 2023)
-**Sapiens**
-*A company specializing in software solutions for insurance and financial services*
 
-*   **Translated complex requirements into functional code for the core insurance product, actively participating in the full development lifecycle.**
-*   **Collaborated within an Agile-Scrum framework, successfully delivering technical tasks and feature enhancements within**
+*   Translated complex requirements into functional code for the core insurance product, actively participating in the full development lifecycle.
+*   Collaborated within an Agile-Scrum framework, successfully delivering technical tasks and feature enhancements within
